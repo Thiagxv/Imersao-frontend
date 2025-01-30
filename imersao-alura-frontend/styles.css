@@ -8,6 +8,7 @@ h1 {
 }
 
 .sidebar {
+    
     position: fixed;
     top: 0;
     left: 0 ;
@@ -19,7 +20,7 @@ h1 {
 }
     
 .sidebar_navigation{
-    background-color: #121212;
+    background-color: #131313;
     border-radius: 8px;
     padding: 16px 0 0 16px;
 }
@@ -53,3 +54,44 @@ h1 {
     font-family: "DM Sans", sans-serif;
 }
 
+
+
+.Biblioteca {
+   background-color: 121212;
+   border-radius: 8px;
+   display: flex;
+   justify-content: space-between;
+   flex-direction: column;
+   padding: 4px 8px;
+   color: white;
+   font-weight: 600;
+   font-size: 14px;
+   margin-top:  10px;
+
+}
+
+
+.Conteudo_biblioteca{
+    display: flex;
+    justify-content: space-between;
+}
+
+.Biblioteca .button_biblioteca {
+    display: flex;
+    margin-right: 10px;
+    color: #b3b3b3;
+    background-color: transparent;
+    border: 0px;
+    font-size: 14px;
+    font-weight: 700;
+    font-family: "DM Sans", sans-serif;
+    text-align: center;
+    text-decoration: none;
+    text-transform: nome;
+    padding:20px 10px;
+}
+
+.fa{
+    font-size: ;
+
+}
