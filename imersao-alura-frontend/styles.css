@@ -158,6 +158,27 @@ body {
     width: 113px;
 }
 
+.cookies{
+    padding: 12px;
+    
+}
+
+
+.cookies a{
+    text-decoration: none;
+    color: white;
+    font-family: "DM Sans", sans-serif;
+    margin-left: 5px;
+
+}
+
+.cookies a:hover{
+    color: #878787;
+}
+
+
+
+
 
 
 
